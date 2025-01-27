@@ -1,6 +1,3 @@
-Here's a sample `README.md` file for your GitHub repository:
-
----
 
 # Hand Gesture Recognition for Keyboard Control
 
